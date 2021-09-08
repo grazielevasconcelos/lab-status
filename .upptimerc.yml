@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Amazon
     url: https://aws.amazon.com/
+  - name: Vagas
+    url: https://www.vagas.com.br/healthcheck
 
 status-website:
   theme: dark
