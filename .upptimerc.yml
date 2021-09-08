@@ -5,6 +5,8 @@ repo: lab-status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Amazon
+    url: https://aws.amazon.com/
 
 status-website:
   theme: dark
