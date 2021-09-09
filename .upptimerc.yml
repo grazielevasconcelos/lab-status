@@ -10,7 +10,7 @@ sites:
   - name: Vagas
     url: https://www.vagas.com.br/healthcheck
   - name: Planilhas
-    url: http://4ff9-186-204-185-115.ngrok.io/sheets/
+    url: http://fbe6-186-204-185-115.ngrok.io/sheets/
 
 status-website:
   theme: dark
