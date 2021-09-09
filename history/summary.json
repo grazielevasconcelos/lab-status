@@ -58,17 +58,19 @@
     "url": "http://4ff9-186-204-185-115.ngrok.io/sheets/",
     "icon": "https://favicons.githubusercontent.com/4ff9-186-204-185-115.ngrok.io",
     "slug": "planilhas",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 311,
-    "timeWeek": 311,
-    "timeMonth": 311,
-    "timeYear": 311,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 284,
+    "timeDay": 284,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
+    "dailyMinutesDown": {
+      "2021-09-09": 0
+    }
   }
 ]
