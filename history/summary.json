@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 133,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 109,
+    "timeDay": 100,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 308,
-    "timeWeek": 308,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 299,
+    "timeDay": 312,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 280,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 253,
+    "timeDay": 276,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/fbe6-186-204-185-115.ngrok.io",
     "slug": "planilhas",
     "status": "down",
-    "uptime": "58.73%",
-    "uptimeDay": "58.73%",
-    "uptimeWeek": "58.73%",
-    "uptimeMonth": "58.73%",
-    "uptimeYear": "58.73%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "uptime": "2.27%",
+    "uptimeDay": "2.27%",
+    "uptimeWeek": "2.27%",
+    "uptimeMonth": "2.27%",
+    "uptimeYear": "2.27%",
+    "time": 350,
+    "timeDay": 350,
+    "timeWeek": 350,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2021-09-09": 23
+      "2021-09-10": 72,
+      "2021-09-09": 1327
     }
   }
 ]
