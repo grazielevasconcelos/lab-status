@@ -7,10 +7,6 @@ sites:
     url: https://www.google.com
   - name: Amazon
     url: https://aws.amazon.com/
-  - name: Vagas
-    url: https://www.vagas.com.br/healthcheck
-  - name: Planilhas
-    url: http://fbe6-186-204-185-115.ngrok.io/sheets/
 
 status-website:
   theme: dark
